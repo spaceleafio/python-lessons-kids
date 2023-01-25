@@ -1,14 +1,14 @@
 # Number Variables
 x = 1
 y = 3
-z_add = x + y
-z_sub = x - y
-z_mul = x * y
-z_div = x / y
-print(z_add)
-print(z_sub)
-print(z_mul)
-print(z_div)
+add = x + y
+sub = x - y
+mul = x * y
+div = x / y
+print(add)
+print(sub)
+print(mul)
+print(div)
 
 
 # String Variables
