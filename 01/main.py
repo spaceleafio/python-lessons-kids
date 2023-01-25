@@ -1,6 +1,15 @@
 # Number Variables
 x = 1
-print(x)
+y = 3
+z_add = x + y
+z_sub = x - y
+z_mul = x * y
+z_div = x / y
+print(z_add)
+print(z_sub)
+print(z_mul)
+print(z_div)
+
 
 # String Variables
 bird1 = "Snowy"
@@ -25,3 +34,4 @@ print(birds[0])
 print(birds[1])
 print(birds[2])
 print(birds[3])
+
