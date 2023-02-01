@@ -1,3 +1,5 @@
+# LESSON 01: Variables, basic data types (numbers, strings, booleans, lists), basic arithmatic operations, print() function
+
 # Number Variables
 x = 1
 y = 3
@@ -9,7 +11,6 @@ print(add)
 print(sub)
 print(mul)
 print(div)
-
 
 # String Variables
 bird1 = "Snowy"
