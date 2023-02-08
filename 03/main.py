@@ -27,7 +27,7 @@ def divide(a,b):
     print(f"Dividing {a} by {b}!")
     return a / b
 
-# add(a,b) is expecting two input paramters `a` and `b` and will return them added together
+# birthday(day, month, year) is expecting three input paramters `day`,`month` and `year` and will print a greeting
 def birthday(day, month, year):
     print(f"You were born on the {day} day of the month {month} in the year {year}")
 
