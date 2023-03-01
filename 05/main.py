@@ -4,7 +4,6 @@
 # IMPORTS
 import os # let's us execute command line commands
 import time # let's us add time delays
-import math
 
 # CLEAR SCREEN WHEN PROGRAM STARTS
 os.system('clear')
